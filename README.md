@@ -1,5 +1,5 @@
 # Sarim_Portfolio
-*Notable Data Science Project Portfolio*
+*Notable Data Science Projects Portfolio*
 
 # Project 1: House Price Prediction: Project Overview
 - Formulated a tool that estimates the saleprice of houses in Ames, Iowa based on 79 explanatory variables.
