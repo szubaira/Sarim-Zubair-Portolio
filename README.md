@@ -1,2 +1,2 @@
-# Sarim-Zubair-Portolio
+# Sarim-Zubair-Portfolio
 Data Science Portfolio
