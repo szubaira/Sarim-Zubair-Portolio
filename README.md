@@ -1,7 +1,7 @@
 # Sarim_Portfolio
 Data Science Portfolio
 
-# Project 1: Predicting House Prices with Machine Learning: Project Overview
+# [Project 1: Predicting House Prices with Machine Learning: Project Overview](https://github.com/szubaira/House_Price_Prediction_Project)
 - Formulated a tool that estimates the selling price of houses in Ames, Iowa based on 79 explanatory variables.
 - Utilized supervised learning algorithms (regression techniques) to predict house prices based on different features of the house. 
 - Engineered features from the year houses were built and modified to quantify the age of the unit and modification.
