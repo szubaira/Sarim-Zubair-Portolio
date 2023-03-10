@@ -8,13 +8,23 @@ Data Science Portfolio
 - Implemented Backward Stepwise Regression to eliminate independent variables based on statistical significance in order to retain only the most influential features for modeling. 
 - Optimized Linear Regression, Lasso Regression, Ridge Regression, Random Forest Regressor, and XGBoost Regressor using GridSearchCV to land the best model fit.
 
+![](https://github.com/szubaira/Sarim_Portfolio/blob/main/images/house%20price%20model%20performance%20table.png) 
+
+![](https://github.com/szubaira/Sarim_Portfolio/blob/main/images/house%20price%20predictions%20table.png)
+
 # [Project 2: Handwritten Digit Recognition Application: Project Overview](https://github.com/szubaira/Handwritten_Digit_Recognition_Project)
 - Constructed an application that provides machines with the ability to recognize different human handwritten digits, which can be used to detect vehicle numbers, read bank cheques, arrange postcards and many other tasks.
 - Utilized one of the most effective algorithms for this particular problem, a Convolutional Neural Network, and trained and tested it using a total of 70,000 (28x28) pixel images of handwritten numbers from the MNIST Dataset.
 - Built a Graphical User Interface (GUI) for practical use of the model using Keras to take a drawn numerical figure on the interactive canvas to identify the digit. 
+
+![](https://github.com/szubaira/Sarim_Portfolio/blob/main/images/handwritten%20digit%20system%20--%20GUI.png)
 
 # [Project 3: Customer Churn Prediction: Project Overview](https://github.com/szubaira/Bank_Customers_Churn_Prediction)
 - Generated a Customer Churn Analysis for bank customers in order to help banks implement new services or improve existing ones with a strategy that will retain customers who are most likely to churn from their business. 
 - Visualized all of the features and their relationship with our target variable to better understand the dataset and the impact of each feature on the likelihood that a customer will exit from business services. 
 - Modeled and optimized Logistic Regression, Random Forest Classifier, Gradient Booster Classifier, XG Boosting, Light Gradient Boosting Machine, and Ensemble Learning Algorithm using GridSearchCV and k-fold cross-validation technique to find the best model fit. 
 - Compared the performance of all the models using four performance metrics (Accuracy, Precision, Recall, ROC-AUC) to select a Machine Learning classifier with highest overall model performance. 
+
+![](https://github.com/szubaira/Sarim_Portfolio/blob/main/images/customer%20churn%20EDA%20viz%201.png)
+![](https://github.com/szubaira/Sarim_Portfolio/blob/main/images/customer%20churn%20prediction%20heatmap.png)
+![](https://github.com/szubaira/Sarim_Portfolio/blob/main/images/customer%20churn%20project%20model%20eval.png)
