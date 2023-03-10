@@ -28,3 +28,5 @@ Data Science Portfolio
 ![](https://github.com/szubaira/Sarim_Portfolio/blob/main/images/customer%20churn%20EDA%20viz%201.png)
 ![](https://github.com/szubaira/Sarim_Portfolio/blob/main/images/customer%20churn%20prediction%20heatmap.png)
 ![](https://github.com/szubaira/Sarim_Portfolio/blob/main/images/customer%20churn%20project%20model%20eval.png)
+
+theme: Slate
